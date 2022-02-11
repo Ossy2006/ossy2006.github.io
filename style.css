@@ -8,4 +8,6 @@ body {
     background-color: darkcyan;
     background-image: url(images/robot.jpg);
     background-repeat: no-repeat;
+    height: 20%;
+    width: 20%;
 }
