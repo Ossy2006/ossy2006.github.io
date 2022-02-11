@@ -6,8 +6,4 @@ h1 {
 
 body {
     background-color: darkcyan;
-    background-image: url(images/robot.jpg);
-    background-repeat: no-repeat;
-    height: 700px;
-    width: 200px;
 }
