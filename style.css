@@ -3,3 +3,8 @@ h1 {
     text-align: center;
     background-color: black;
   }
+
+body {
+    background-color: darkcyan;
+    background-image: images/robot.jpg;
+}
