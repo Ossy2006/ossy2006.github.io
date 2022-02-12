@@ -19,3 +19,11 @@ body {
   background-color: black;
   color: #00FF00;
 }
+
+.plassering{
+  
+  background-color: lightslategrey;
+  margin: auto;
+  width: 10%;
+
+}
