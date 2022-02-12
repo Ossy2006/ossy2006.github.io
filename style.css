@@ -2,10 +2,13 @@ h1 {
     color: white;
     text-align: center;
     background-color: black;
+    font-size: 70px;
+    margin-left: 10%;
+    margin-right: 10%;
   }
 
 body {
-    background-color: darkcyan;
+    background-color: rgb(0, 69, 97);
     
 }
 .center {
@@ -16,14 +19,13 @@ body {
   }
 
 .knapp{
-  background-color: black;
-  color: #00FF00;
+  background-color: rgb(122, 28, 28);
+  color: #ffffff;
+  font-size: 30px;
+  justify-self: auto;
 }
 
 .plassering{
-  
-  background-color: lightslategrey;
-  margin: auto;
-  width: 10%;
-
+  padding: 20px;
+  text-align: center;
 }
