@@ -14,3 +14,8 @@ body {
     margin-right: auto;
     width: 50%;
   }
+
+.knapp{
+  background-color: black;
+  color: #00FF00;
+}
