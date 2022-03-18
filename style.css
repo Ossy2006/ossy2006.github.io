@@ -52,7 +52,7 @@ body {
 .text{
   font-size: 20px;
   color: #ffffff;
-  background-color: black;
+  /* background-color: black; */
   margin-left: 35%;
     margin-right: 35%;
 }
